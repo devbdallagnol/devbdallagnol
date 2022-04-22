@@ -1,4 +1,4 @@
-### Hello! My name's Bruno Augusto! 👋
+### Hello! My name's Bruno Augusto! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width='30px'>
 #### I'm a developer and technology enthusiast. 😁
 <hr>
 
