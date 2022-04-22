@@ -13,8 +13,8 @@
   <img align="center" alt="Devb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Devb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Devb-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/python_vertical_logo_icon_168039.png">
-  <img align="center" alt="Devb-Git" height="30" width="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="right" alt="Devb-avatar" height="80" width="80" src="https://64.media.tumblr.com/c15043e42aa025aed04c54c270d1d9ee/tumblr_mxtkh38zcK1r358cyo1_400.gifv">
+  <img align="center" alt="Devb-Git" height="30" width="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img align="right"  alt="Devb-avatar" height="80" width="80" src="https://64.media.tumblr.com/c15043e42aa025aed04c54c270d1d9ee/tumblr_mxtkh38zcK1r358cyo1_400.gifv">
 </div>
 <br>  
 <hr>
