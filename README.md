@@ -83,21 +83,21 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e em constante busca po
       <td>
         <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/HTML-CSS3%20|%20Javascript-111?style=for-the-badge">
       </td>
-      <td>Projeto | JM Viagens</td>
+      <td>Portfólio | Profissional</td>
       <td align="center">
-        <a href="https://github.com/devbdallagnol/projeto-jmviagens_html_css">
-           <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/Ver%20Projeto-444?style=for-the-badge">
+        <a href="https://devbdallagnol.github.io/">
+           <img align="center" alt="Ver Portfólio" src="https://img.shields.io/badge/|%20Portfólio-444?style=for-the-badge">
         </a>
       </td>  
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/HTML-CSS3%20|%20Javascript-111?style=for-the-badge">
+        <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/Python-Pandas%20|%20Webbrowser-111?style=for-the-badge">
       </td>
-      <td>Portfólio | Profissional</td>
+      <td>Projeto | Dash Fifa 23</td>
       <td align="center">
-        <a href="https://devbdallagnol.github.io/">
-           <img align="center" alt="Ver Portfólio" src="https://img.shields.io/badge/|%20Portfólio-30A3DC?style=for-the-badge">
+        <a href="https://github.com/ITDallAgnol/ASIMOV_Dash_Fifa_2023">
+           <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/Ver%20Projeto-30A3DC?style=for-the-badge">
         </a>
       </td>  
     </tr>
