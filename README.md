@@ -58,6 +58,17 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e em constante busca po
   <tbody align="left">
     <tr>
       <td>
+        <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/React-VITE | AXIOS/API-111?style=for-the-badge">
+      </td>
+      <td>Projeto | React-API</td>
+      <td align="center">
+        <a href="https://github.com/devbdallagnol/Projetos_React_Iniciantes">
+           <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/Ver%20Projeto-30A3DC?style=for-the-badge">
+        </a>
+      </td>  
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="Ver Projeto" src="https://img.shields.io/badge/HTML-CSS3%20|%20Javascript-111?style=for-the-badge">
       </td>
       <td>Disney Clone
