@@ -1,12 +1,9 @@
 # Bruno Augusto Barbosa Dall Agnol 🚀  
-**Desenvolvedor Full Stack | Pós-graduado em Análise de Dados**
+**Full Stack Developer | Data Analysis Specialist | Tech Innovator**
 
 ## Olá! 👋
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado contínuo.  
-Tenho experiência em **frontend e backend**, atuando em projetos de automação de dados financeiros, desenvolvimento de sites institucionais e soluções digitais completas.  
-
-Meu objetivo é contribuir para projetos desafiadores, entregando soluções eficientes, escaláveis e elegantes.
+Desenvolvedor Full Stack com experiência em automação de dados financeiros, desenvolvimento web e análise de dados. Pós-graduado em Análise de Dados e graduado em Sistemas de Informação. Apaixonado por inovação e aprendizado contínuo.
 
 ---
 
