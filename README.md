@@ -52,9 +52,28 @@ Desenvolvedor Full Stack com experiência em automação de dados financeiros, d
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devbdallagnol&show_icons=true&locale=pt-br&theme=codeSTACKr)  
-![Estatísticas de streak](https://github-readme-streak-stats.herokuapp.com/?user=devbdallagnol&theme=codeSTACKr)  
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs?username=devbdallagnol&show_icons=true&locale=pt-br&layout=compact&theme=codeSTACKr)  
+<p align="center">
+  <a href="https://github.com/devbdallagnol">
+    <img height="180em" src="https://github-readme-stats-5.vercel.app/api?username=devbdallagnol&show_icons=true&theme=radical&hide_rank=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/devbdallagnol">
+    <img height="180em" src="https://github-readme-stats-5.vercel.app/api/top-langs/?username=devbdallagnol&show_icons=true&theme=radical&layout=compact&hide_progress=true&locale=pt-br" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/devbdallagnol">
+    <img src="https://streak-stats.demolab.com?user=devbdallagnol&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbdallagnol&theme=react-dark&hide_border=true&area=true&radius=8" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devbdallagnol&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
