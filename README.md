@@ -102,11 +102,13 @@ Desenvolvedor Full Stack com **9+ anos de experiência** em desenvolvimento web,
 
 ### 📂 Projetos em Destaque
 
-- [React API Project](https://github.com/devbdallagnol/Projetos_React_Iniciantes)  
-- [Disney Clone](https://github.com/devbdallagnol/disney-clone)  
-- [Instagram Clone](https://github.com/devbdallagnol/dio_myversioninstagram)  
-- [Portfólio Profissional](https://devbdallagnol.github.io/)  
-- [Dash Fifa 23 (Python)](https://github.com/ITDallAgnol/ASIMOV_Dash_Fifa_2023)  
+- [Worldcup 2026 App](https://github.com/devbdallagnol/worldcup2026-app)
+- [Gestao Tarefas Api_dotnet](https://github.com/devbdallagnol/GestaoTarefasApi_dotnet)
+- [Miniguia Estudos Notebooklm](https://github.com/devbdallagnol/miniguia-estudos-notebooklm)
+- [Cv_Brunodallagnol](https://github.com/devbdallagnol/cv_brunodallagnol)
+- [ASIMOV_Dash_Fifa_2023](https://github.com/devbdallagnol/ASIMOV_Dash_Fifa_2023)
+- [Projetos_React_Iniciantes](https://github.com/devbdallagnol/Projetos_React_Iniciantes)
+
 
 ---
 
