@@ -73,29 +73,43 @@ Desenvolvedor Full Stack com **9+ anos de experiência** em desenvolvimento web,
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
   <a href="https://github.com/devbdallagnol">
-    <img height="180em" src="https://github-readme-stats-5.vercel.app/api?username=devbdallagnol&show_icons=true&theme=radical&hide_rank=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-5.vercel.app/api?username=devbdallagnol&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2F81F7&border_color=30363D"
+      alt="Estatísticas do GitHub de Bruno Dall'Agnol"
+    />
   </a>
   <a href="https://github.com/devbdallagnol">
-    <img height="180em" src="https://github-readme-stats-5.vercel.app/api/top-langs/?username=devbdallagnol&show_icons=true&theme=radical&layout=compact&hide_progress=true&locale=pt-br" alt="Top Languages" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-5.vercel.app/api/top-langs/?username=devbdallagnol&layout=compact&hide_progress=true&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"
+      alt="Linguagens mais utilizadas"
+    />
   </a>
 </p>
 
+<!-- GITHUB STREAK -->
 <p align="center">
   <a href="https://github.com/devbdallagnol">
-    <img src="https://streak-stats.demolab.com?user=devbdallagnol&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=devbdallagnol&locale=pt_BR&background=0D1117&border=30363D&stroke=30363D&ring=2F81F7&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
+      alt="Sequência de contribuições de Bruno Dall'Agnol"
+    />
   </a>
 </p>
 
+<!-- RESUMO DE CONTRIBUIÇÕES -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbdallagnol&theme=react-dark&hide_border=true&area=true&radius=8" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devbdallagnol&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/devbdallagnol">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbdallagnol&theme=github_dark"
+      alt="Resumo das contribuições no GitHub"
+    />
+  </a>
 </p>
 
 ---
